@@ -1,3 +1,3 @@
 # meow
 
-## consistency makes confidence 
+## consistency makes confidence  
