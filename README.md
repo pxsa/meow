@@ -39,8 +39,8 @@ This project implements a binary image classifier that can distinguish between i
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/cats-vs-dogs-classifier.git
-cd cats-vs-dogs-classifier
+git clone https://github.com/pxsa/meow.git
+cd meow
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
