@@ -56,7 +56,7 @@ from tensorflow.keras.preprocessing import image
 import numpy as np
 
 # Load the trained model
-model = load_model('cats_vs_dogs_model.h5')
+model = load_model('cats_and_dogs_small_1.keras')
 
 # Load and preprocess an image
 img_path = 'path/to/your/image.jpg'
